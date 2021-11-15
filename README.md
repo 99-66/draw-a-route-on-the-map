@@ -2,7 +2,7 @@
 
 수집한 GPS 정보(위도, 경도)로 지도에 이동 경로를 그려본다
 
-코드 내용은 [draw a route on the map.ipynb](draw a route on the map.ipynb) 주피터 파일 내용을 참조
+코드 내용은 <b>[draw a route on the map.ipynb](draw%20a%20route%20on%20the%20map.ipynb)</b> 주피터 파일 내용을 참조
 
 ## 위치정보 수집
 위도, 경도와 같은 GPS 위치정보는 별도의 외부 데이터를 사용하지 않고 직접 수집하여 사용하였다
