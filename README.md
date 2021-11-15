@@ -2,7 +2,14 @@
 
 수집한 GPS 정보(위도, 경도)로 지도에 이동 경로를 그려본다
 
-코드 내용은 <b>[draw-a-route-on-the-map.ipynb](draw-a-route-on-the-map.ipynb)</b> 주피터 파일 내용을 참조
+코드 내용은 <b>[draw-a-route-on-the-map.ipynb](draw-a-route-on-the-map.ipynb)</b> 주피터 파일에 있습니다
+
+custom javascript plots과 같은 대화형 기능은 github repository 에서 정상적으로 동작하지 않습니다
+(*Ref : [folium-map-fail-to-render-in-notebook-on-github](https://stackoverflow.com/questions/53240378/folium-map-fail-to-render-in-notebook-on-github))
+
+때문에 지도가 정상적으로 표시된 주피서 내용은 아래 링크를 통해 nbviewer를 통해 확인해야 됩니다
+
+[nbviewer : draw-a-route-on-the-map.ipynb ](https://nbviewer.org/github/99-66/draw-a-route-on-the-map/blob/master/draw-a-route-on-the-map.ipynb)
 
 ## 위치정보 수집
 위도, 경도와 같은 GPS 위치정보는 별도의 외부 데이터를 사용하지 않고 직접 수집하여 사용하였다
